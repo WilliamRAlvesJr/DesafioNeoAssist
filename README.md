@@ -19,7 +19,7 @@
     Um novo json com o nome tickets_points.json é criado ao rodar o projeto (podem excluir para validar). 
     Ele está localizado na pasta target, e é gerado a partir do arquivo tickets.json.
     Nesse novo arquivo, as pontuações são colocadas para cada mensagem.
-
+<br/><br/>
 
 * Modal com mensagem do cliente
 
