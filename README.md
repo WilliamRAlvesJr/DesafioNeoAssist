@@ -11,7 +11,7 @@
 
 ### Observações:
     
-    O projeto pediu para que a pontuação fosse armazenada no json tickets.json, Porém não fiz isso, 
+    O projeto pediu para que a pontuação fosse armazenada no json tickets.json, porém não fiz isso, 
     preferi manter arquivo original intacto na pasta resources. 
 
     Um novo json com o nome tickets_points.json é criado ao rodar o projeto (podem excluir para validar). 
