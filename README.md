@@ -5,7 +5,7 @@
     - Requisitos:
         - XAMPP v3.2.3
 
-    - Color o projeto em \xampp\htdocs
+    - Color o projeto em C:\xampp\htdocs
     - Rodar o modulo apache do XAMPP
     - Acessar a URL http://localhost/desafioneoassist/
 
