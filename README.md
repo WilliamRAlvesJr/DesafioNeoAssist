@@ -11,6 +11,8 @@
 
 ### Observações:
     
+* Arquivo JSON
+
     O projeto pediu para que a pontuação fosse armazenada no json tickets.json, porém não fiz isso, 
     preferi manter arquivo original intacto na pasta resources. 
 
@@ -19,3 +21,7 @@
     Nesse novo arquivo, as pontuações são colocadas para cada mensagem.
 
 
+* Modal com mensagem do cliente
+
+    Algo que pode passar despercebido é o botão na listagem de assunto, ao clicar em qualquer assunto,
+    uma modal com a mensagem do cliente é mostrada na tela.
