@@ -15,7 +15,7 @@
     preferi manter arquivo original intacto na pasta resources. 
 
     Um novo json com o nome tickets_points.json é criado ao rodar o projeto (podem excluir para validar). 
-    Ele está localicado na pasta target, e é gerado a partir do arquivo tickets.json.
+    Ele está localizado na pasta target, e é gerado a partir do arquivo tickets.json.
     Nesse novo arquivo, as pontuações são colocadas para cada mensagem.
 
 
