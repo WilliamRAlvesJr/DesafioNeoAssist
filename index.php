@@ -101,9 +101,9 @@
 
 
   <script>
-  $('#myModal').on('shown.bs.modal', function (e) {
-    alert('x');
-  })
+  // $('#myModal').on('shown.bs.modal', function (e) {
+  //   alert('x');
+  // })
   </script>
   <!-- The Modal -->
   <div class="modal" id="myModal">
